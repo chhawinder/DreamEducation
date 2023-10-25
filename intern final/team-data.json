@@ -1,0 +1,46 @@
+[
+  {
+    "name": "John Doe",
+    "position": "CEO",
+    "image": "https://directioneducare.com/wp-content/uploads/2022/12/DSC_1221-768x1152.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "name": "Jane Smith",
+    "position": "Designer",
+    "image": "https://directioneducare.com/wp-content/uploads/2022/12/IMG_20221219_125901-1024x907.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "name": "David Johnson",
+    "position": "Developer",
+    "image": "https://directioneducare.com/wp-content/uploads/2022/04/krishana-1.jpeg.webp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "name": "John Doe",
+    "position": "CEO",
+    "image": "https://directioneducare.com/wp-content/uploads/2022/12/DSC_1221-768x1152.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "name": "Jane Smith",
+    "position": "Designer",
+    "image": "https://directioneducare.com/wp-content/uploads/2022/12/IMG_20221219_125901-1024x907.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  
+  {
+    "name": "David Johnson",
+    "position": "Developer",
+    "image": "https://directioneducare.com/wp-content/uploads/2022/04/krishana-1.jpeg.webp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  }
+  ,
+  {
+    "name": "David Johnson",
+    "position": "Developer",
+    "image": "https://directioneducare.com/wp-content/uploads/2022/04/krishana-1.jpeg.webp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  }
+]
